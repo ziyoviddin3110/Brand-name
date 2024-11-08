@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(../imgs/Header-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 729px;
+}
+.btn_logo{
+    background-color: blue;
+    border: none;
+}
+.hero .container{
+    padding: 150px;
+    color: white;
+}
+.hero_card{
+    width: 550px;
+}
+.hero_card h1{
+    font-size: 58px;
+    font-weight: 800;
+}
+.hero_card p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.hero_btn button{
+background: transparent;
+border: 2px solid white;
+}
+.hero_btn button:nth-child(1){
+    background: #23A6F0;
+    border: none;
+}
+.peake{
+    background: #252B42;
+  
+}
+.Industry{
+    background: #8EC2F2;
+}
+.box2{
+    background: white;
+    width: 450px;
+}
+.box3{
+    margin-left: -90px;
+}
+.imgs1, .Pricing_sec{
+    background: #252B42;
+}
+.bac_imgs{
+    background-image: url(../imgs/col-md-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 270px;
+}
+.bac_imgs1{
+    background-image: url(../imgs/col-md-3\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 270px;
+}
+.bac_imgs2{
+    background-image: url(../imgs/col-md-3\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 270px;
+}
+.bac_imgs3{
+    background-image: url(../imgs/col-md-3\ \(3\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 270px;
+}
+.imgs_btn{
+    background: #23A6F0;
+    border: none;
+}
+.free_col{
+    background: #FFFFFF;
+    width: 350px;
+   margin-top: 50px;
+    
+}
+.cards3{
+   padding-left: 45px;
+   padding-bottom: 30px;
+}
+
+.Pricing_block{
+    padding: 80px 0px;
+}
+.Industry_box .NEV{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 350px;
+    margin-top: 180px;
+    position: absolute;
+    background: #E77C40; color: white;
+}
+.Industry_box .NEV h6{
+font-size: 15px;
+font-weight: 900;
+padding-top: 8px;
+}
+.info_footer{
+    background: #252B42;
+    color: white;
+}
